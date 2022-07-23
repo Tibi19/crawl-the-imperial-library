@@ -1,0 +1,10 @@
+{
+    "id": "RequestfromQuestgiver",
+    "paragraphs": [
+        "<italic>[Player name],</italic>",
+        "<italic>I'm aware of your recent assault on [victim's name]. Rest assured I have no interest in that particular matter. I do, however, have an interest in your willingness to employ force when the need arises.</italic>",
+        "If you are able to assist me, I will gladly pay you for your troubles.",
+        "<italic>Next time you are visiting [settlement], please call on me.</italic>",
+        "<italic>Sincerely, \n[Questgiver's name]</italic>"
+    ]
+}

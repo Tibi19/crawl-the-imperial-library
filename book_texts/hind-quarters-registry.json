@@ -1,0 +1,14 @@
+{
+    "id": "TheHindQuartersRegistry",
+    "paragraphs": [
+        "Librarian Comment:",
+        "Elder Scrolls Online uses variables to dynamically fill in values within the game. We have rendered the resulting text as such",
+        "",
+        "Entry 1\n\u2014 Khajiiti sugar merchant checked in with guard.",
+        "Entry 2\n\u2014 High Elf pilgrim checked out.",
+        "Entry 3\n\u2014 Group of Maormer sailors checked in.\n\u2014 All beds filled. No vacancies.",
+        "Entry 4\n\u2014 Khajiiti merchant and guard checked out. Claimed they were \"encouraged\" to do so by the Maormer.\n\u2014 Two Maormer sailors checked in immediately after merchant's departure.\n\u2014 All beds filled. No vacancies.",
+        "Entry 5\n\u2014 Entire Maormer contingent checked out. Refused to pay for final week! Will send a bill to Ambassador Ulondil.",
+        ""
+    ]
+}

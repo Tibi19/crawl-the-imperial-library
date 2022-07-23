@@ -1,0 +1,19 @@
+{
+    "id": "GjarmasOrders",
+    "paragraphs": [
+        "Librarian Comment:",
+        "Elder Scrolls Online uses variables to dynamically fill in values within the game. We have rendered the resulting text as such.",
+        "",
+        "<title>Gjarma's Orders: Supplies</title>",
+        "Let your lot fill their pouches, but the necromancers will need bodies for the plan to work. Ten cart-loads should be enough.\nAnd look for bodies in the streets before you go about making any new ones. If the people of Haven see us bashing down their doors and dragging out corpses, they'll find courage beneath their fear.",
+        "\u2014 Gjarma Raven-Hair",
+        "<title>Gjarma's Orders: Wamasu</title>",
+        "I don't care how, but I want that drugged wamasu out of the hold and under Haven. It should fit through the old Imperial aquifer outside the city walls. If we can't secure our escape route before the ritual completes, we're sunk.",
+        "And don't jostle it! If it wakes angry, it starts melting support columns. We don't want the city to come down until after we're gone.",
+        "\u2014 Gjarma Raven-Hair",
+        "<title>Gjarma's Orders: Yngold</title>",
+        "I understand your concern about lack of supplies for the ritual. But you're forgetting there's a local Mages Guild to raid for stores.",
+        "Once you confirm they have the goods, send me word so we know to proceed.",
+        "\u2014 Gjarma Raven-Hair"
+    ]
+}

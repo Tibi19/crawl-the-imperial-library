@@ -1,0 +1,12 @@
+{
+    "id": "LetterofInheritance",
+    "paragraphs": [
+        "<italic>[Player name],</italic>",
+        "<italic>In the name of Jarl [Jarl's name], it is with great regret that we inform you of [dead friend]'s death.</italic>",
+        "<italic>The deceased has bequeathed unto you a measure of inheritance in the amount of [number] gold pieces.</italic>",
+        "<italic>The Jarl's court has levied an amount of [number] gold pieces from the sum, as the lawfully and honorably due tax. The remainder has been commended unto the care of a trusted courier for deliverance.</italic>",
+        "While all of the Jarl's court grieves with you on this day, we rejoice in the knowledge that the deceased was in possession of dear friends and wealth to communicate unto them.",
+        "May this lawfully bestowed inheritance prove as a reminder of your enduring faith in one another, and of the Jarl's beneficence accorded unto you both.",
+        ""
+    ]
+}

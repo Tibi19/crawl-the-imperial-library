@@ -1,0 +1,12 @@
+{
+    "id": "IirdelsJournal",
+    "paragraphs": [
+        "Librarian Comment:",
+        "Elder Scrolls Online uses variables to dynamically fill in values within the game. We have rendered the resulting text as such.",
+        "",
+        "Known Blacksap Sympathizers:\n\u2014Rathilmith, tall tree. (Nallion's husband)\n\u2014Nallion, tall tree. (Rathilmith's wife)\n\u2014Norweras, rarely leaves home.\n\u2014Glardel, collector of fine furs.\n\u2014Iirond, frequents the inn. Enjoys the drink.\n\u2014Galriel, edge of town. Keeps to herself.",
+        "Any of the sympathizers should connect you to the remnants. Approach them and speak this week's phrase first:\n\u2014\"The Falinesti peeper swims at night.\"",
+        "After they respond, check the weather. It should relate to :\n\u2014\"Cloudless skies scare the peepers away.\"\n\u2014\"Rainy skies bring all the peepers out.\"\n\u2014\"Sunny skies keep the peepers in their cave.\"",
+        "The sympathizers spend a lot of time under the inn, near that old shrine. I've seen them change the color of the flames. The color will tell you the final response you need:\n\u2014\"Once yellow, it grew jealous of its neighbors. I hear it stole the red skin.\"\n\u2014\"Once green, it broke the Green Pact. Y'ffre's anger turned it red.\"\n\u2014\"Once blue, it was forced to eat its own family. Its body is bathed in their blood.\""
+    ]
+}

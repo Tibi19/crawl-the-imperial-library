@@ -1,0 +1,9 @@
+{
+    "id": "PromissoryNoteON",
+    "paragraphs": [
+        "Librarian Comment:",
+        "Elder Scrolls Online uses variables to dynamically fill in values within the game. We have rendered them as such.",
+        "",
+        "This note promises that <<1>>, of Kozanset will pay his debt in full along with the standard amount of interest for the time the debt went uncollected."
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "id": "CouriersLetter",
+    "paragraphs": [
+        "Librarian Comment:",
+        "The game determines certain variables of this letter. The possibilities have been rendered in italicized brackets.\n",
+        "",
+        "To our respectable investor,",
+        "<italic>It seems our expedition to [dungeon name] has met with some resistance from its inhabitants. I know this isn't the first time, but if you would provide us with a few more men and supplies, we are certain the treasure there would yield a return on your investment.</italic>",
+        "This time for sure.",
+        "<italic>If not, we could begin searching for prospects outside of [current hold].</italic>",
+        "A swift reply would be most appreciated.",
+        ""
+    ]
+}

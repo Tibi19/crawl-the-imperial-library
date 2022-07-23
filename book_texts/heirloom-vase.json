@@ -1,0 +1,10 @@
+{
+    "id": "HeirloomVase",
+    "paragraphs": [
+        "Librarian Comment:",
+        "Elder Scrolls Online uses variables to dynamically fill in values within the game. We have rendered them as such.",
+        "",
+        "To my dearest daughter, <<1>>. Keep this heirloom with you, and look upon it anytime you feel lost or alone. Though you insist on leaving <<2>>, I will always be with you.",
+        "\u2014<<3>>"
+    ]
+}

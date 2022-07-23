@@ -1,0 +1,10 @@
+{
+    "id": "UragsNote",
+    "paragraphs": [
+        "Librarian Comment:",
+        "The game determines values dynamically. We have rendered the possibilities in italicized brackets.",
+        "",
+        "<italic>Book - [book name]\nLocation - [book location]</italic>",
+        ""
+    ]
+}

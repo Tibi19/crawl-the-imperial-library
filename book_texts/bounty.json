@@ -1,0 +1,12 @@
+{
+    "id": "Bounty",
+    "paragraphs": [
+        "Librarian Comment:",
+        "The game fills in data depending on your location, we've rendered the possibilities in\u00a0italicized\u00a0brackets.\n",
+        "",
+        "<italic>By order of [Jarl's name]:</italic>",
+        "<italic>To all able bodied and fearless men and women of [current hold]. The dragon located in [location] has been carrying off livestock, and terrorizing citizens and visitors.</italic>",
+        "A handsome reward will be offered to anyone who kills it.",
+        "<italic>--[Steward's name]</italic>"
+    ]
+}

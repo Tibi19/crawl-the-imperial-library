@@ -1,0 +1,18 @@
+{
+    "id": "potionrecipes65",
+    "paragraphs": [
+        "Librarian Comment:",
+        "These appear in separate notes in game, I have kept them together since they are so short.",
+        "",
+        "<header>Restore Fatigue</header>",
+        "To create a potion of Restore Fatigue, combine any two normal foods, such as meat or seeds. Grind carefully with the mortar and pestle. Place the resulting powder in a small pestle and mix with ordinary clear water.",
+        "<header>Cure Disease</header>",
+        "For a potion of Cure Disease, grind Clannfear Claws and Mandrake root into a fine powder using a mortar and pestle. It will remain somewhat gritty. It can be mixed in with almost any liquid, but ordinary clear water is safest.",
+        "<header>Cure Poison</header>",
+        "To create a potion of Cure Poison, mix Ginseng and Redwort Flower in equal portions. Slowly grind them together with a mortar and pestle. The ginseng may leave a sticky residue. Add water for easy swallowing.",
+        "<header>Restore Health</header>",
+        "For a minor Restore Health potion, crumble some Cairn Bolete cap over roasted Boar Meat. Chop finely and mix together with a mortar and pestle. Add water to create a solution that can be drunk.",
+        "<header>Restore Willpower</header>",
+        "A potion of Restore Willpower is made by heating Minotaur Horn and Primrose Leaves. Grind the results together with a mortar and pestle. Add water to create a drinkable fluid."
+    ]
+}

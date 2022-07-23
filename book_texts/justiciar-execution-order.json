@@ -1,0 +1,11 @@
+{
+    "id": "JusticiarExecutionOrder",
+    "paragraphs": [
+        "Librarian Comment:",
+        "The game dynamically fills in information relating to the player. We have rendered the possibilities in italicized brackets.",
+        "",
+        "<italic>Be on the look out for the [player's race] called [player's name]. [He/she] is an enemy to the Thalmor, and has actively disrupted our activities and caused great harm.  If spotted, you are to destroy [him/her] with extreme hatred.</italic>",
+        "<italic>Be advised, [he/she] is extremely dangerous, and quite able to defend [himself/herself]. If caught by local authorities, we are unable to offer you any assistance.</italic>",
+        "For the glory of the Aldmeri Dominion!"
+    ]
+}

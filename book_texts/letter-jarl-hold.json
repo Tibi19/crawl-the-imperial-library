@@ -1,0 +1,14 @@
+{
+    "id": "LetterfromtheJarloftheHold",
+    "paragraphs": [
+        "Librarian Comment:",
+        "The actual title reads\u00a0Letter from \"Jarl [Jarl name] of [Capital City],\" which the game fills in with the appropriate information. Same thing happens to the italics below. This letter is found in the Hearthfire DLC.",
+        "",
+        "<italic>[Player name],</italic>",
+        "<italic>Allow me to introduce myself. My name is [Jarl name], and I have the honor to be the Jarl of the proud and ancient city of [Capital City].</italic>",
+        "<italic>The fame of your exploits across Skyrim has brought you to my attention. If you are interested in becoming a Thane of [Hold name] hold, I invite you to speak to me the next time you are in [Capital City]. Aside from the honor that accrues to the title, my thanes are entitled to a personal housecarl. I also can tell you privately that a choice parcel of land in [Hold name] would be available for your purchase should your services prove useful to me.</italic>",
+        "I look forward to meeting you in person.",
+        "I remain,",
+        "<italic>Jarl [Jarl name] of [Capital City]\n</italic>"
+    ]
+}
