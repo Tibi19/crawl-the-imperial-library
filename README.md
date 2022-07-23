@@ -1,6 +1,6 @@
 # crawl-the-imperial-library
 
-[crawl-the-imperial-library.py](crawl-the-imperial-library.py) scrapes all Elder Scrolls books from https://www.imperial-library.info/books/all/by-title
+[crawl_the_imperial_library.py](crawl_the_imperial_library.py) scrapes all Elder Scrolls books from https://www.imperial-library.info/books/all/by-title
 
 Books are scraped into json files for easier processing
 
