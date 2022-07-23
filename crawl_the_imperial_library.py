@@ -3,7 +3,6 @@ import requests
 import json
 import re
 import crawl_book_element
-import random
 
 #### FUNCTIONS ####
 
@@ -110,8 +109,9 @@ def write_errors(error_log):
 
 #### MAIN ####
 
-with open("the-imperial-library.html", "r") as file:
-    doc = BeautifulSoup(file, "html.parser")
+html = "https://www.imperial-library.info/books/all/by-title"
+html_response = requests.get(html)
+doc = html_response.text
 
 items = doc.find(class_="item-list").ul.contents
 books_metadata = { "books_metadata" : [] }
@@ -120,18 +120,10 @@ error_log = []
 books_count = 0
 books_count_succesful = 0
 
-count_iterations = 0
-max_iterations = 3
-
-random.shuffle(items)
 for item in items:
 
     if item.name != "li":
         continue
-
-    count_iterations += 1
-    if count_iterations > max_iterations:
-        break
 
     is_item_succesful = True # will be changed to False if any getter function fails
 
